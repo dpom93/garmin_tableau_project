@@ -83,6 +83,7 @@ Similar to the first dashboard, users can filter by year and activity type, enab
 Focusing on the fitness focus of 2022 and the new challenging terrain for mountain biking in 2024, there are a few comparison to make. 
 - **The scatterplot** below identifies average heart rate and average maximum heart rate show how cardiovascular performance has evolved. The change in size indicates the calories burned in mountain biking. Using 2022 as the reference point, 2023 shows less calories burned but heart rate responses indicate an improved cardiovascular level while 2024 clearly shows a significant increase in intensity of mountain bike rides in this new location. 
 <img width="614" alt="Screenshot 2024-08-20 at 2 35 12 PM" src="https://github.com/user-attachments/assets/3f895824-5211-4482-8027-d5c340a35ace">
+
 - **Ascent per Minute:** This value indicates how many feet (or meters) of elevation gain you achieve for every minute of activity. A higher value means you’re gaining elevation faster relative to the time spent. The graph below indicates that while 2022 saw the best Ascent per min and the highest elevation gain to this point, 2024 indicates a more challenging riding environment with a significant increase in elevation gain and the lowest Ascent per min. This speaks to the new riding terrain and the elevation at which I am riding now.
 <img width="947" alt="Screenshot 2024-08-20 at 2 57 42 PM" src="https://github.com/user-attachments/assets/f8bf8da8-4f9c-4651-9281-b2172be30f49">
 - **Correlation - Avg HR vs. Calories in Mountain Biking:**
