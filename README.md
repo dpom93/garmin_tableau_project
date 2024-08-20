@@ -82,6 +82,7 @@ Similar to the first dashboard, users can filter by year and activity type, enab
 
 Over the years, my approach to fitness has evolved from tracking everything to focusing on what matters most. I’ve identified activities that no longer need to be meticulously tracked, as my goals and metrics have shifted. As a result, I’m now at my strongest and leanest, with a clear understanding of which activities and goals are most beneficial for my body.
 
+# Other Considerations
 
 ### Design Choices
 My goal was to create a dashboard that is both simple and user-friendly. The color scheme reflects this simplicity, with minimal colors used to keep the focus clear while boldly highlighting areas for user interactivity, such as navigation and filters. The first dashboard provides an overview of how my activities have evolved throughout my journey, while the second dashboard allows users to drill down into weekly trends for deeper insights.
