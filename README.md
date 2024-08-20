@@ -39,14 +39,21 @@ Similar to the first dashboard, users can filter by year and activity type, enab
   - **Yoga**: 2,065 minutes more in 2022 compared to 2023.
   - **Walking**: 3,996 minutes more in 2022 compared to 2023.
   - **Mountain Biking**: 2,443 minutes more in 2022 compared to 2023.
+<img width="594" alt="Screenshot 2024-08-20 at 2 10 56 PM" src="https://github.com/user-attachments/assets/ac890d2c-9df6-4642-97ad-1313215a4ca5">
+<img width="643" alt="Screenshot 2024-08-20 at 2 11 21 PM" src="https://github.com/user-attachments/assets/74d4418e-d35e-48ff-8969-f05ebdb4b2da">
 
 - **Reasons for Increased Activity**:
   - The 75 Hard Challenge I started in 2022 was a major driver. The challenge required two workouts of at least 45 minutes each day and a goal of 10,000 steps, leading to a substantial increase in the number of activities and time spent.
   - A significant mountain biking trip to Moab, UT, Fruita, CO, and Crested Butte, CO, in April 2022 led to a sharp increase in mountain biking. This trip renewed my enthusiasm for mountain biking, resulting in a notable rise in total ascent from 5,472 feet in April to 9,051 feet in May.
+<img width="618" alt="Screenshot 2024-08-20 at 2 12 08 PM" src="https://github.com/user-attachments/assets/d778f9d7-7966-474c-aa63-59d9fb0a52d3">
+<img width="604" alt="Screenshot 2024-08-20 at 2 12 23 PM" src="https://github.com/user-attachments/assets/70cd95d2-f16f-4eef-8355-707eddd30445">
+
 
 - **Performance and Heart Rate Improvements**:
   - The weekly view shows a peak in week 17 (during the mountain biking trip), followed by two weeks of recovery, and then a renewed increase in mountain biking activity.
   - There was also a noticeable decrease in my average heart rate during April to June, indicating improved fitness during this focused period of mountain biking.
+<img width="395" alt="Screenshot 2024-08-20 at 2 13 55 PM" src="https://github.com/user-attachments/assets/1a46fa0e-79ac-4b65-8976-e40d5436816c">
+<img width="542" alt="Screenshot 2024-08-20 at 2 13 16 PM" src="https://github.com/user-attachments/assets/d14b2ec9-66f9-4251-9a97-0fd40c2dc0ff">
 
 ## 2023: A Shift in Focus
 
@@ -69,6 +76,7 @@ Similar to the first dashboard, users can filter by year and activity type, enab
 
 - **Summer Challenges**:
   - The summer months in Phoenix have posed challenges, leading to a decrease in weekly distance, calories burned, and total ascent due to the extreme heat and reduced riding opportunities.
+<img width="402" alt="Screenshot 2024-08-20 at 2 15 17 PM" src="https://github.com/user-attachments/assets/6442f41c-688f-4135-9307-9ebffd41b904">
 
 ## Overall Reflections
 
