@@ -1,5 +1,5 @@
 # Dashboard Overview: My Garmin Activities Insights
-[Tableau Dashboard](https://public.tableau.com/app/profile/drew.pomeroy/viz/GarminDashboardProject/Dashboard2?publish=yes)
+[Tableau Dashboard](https://public.tableau.com/app/profile/drew.pomeroy/viz/GarminDashboardProject/Dashboard1)
 
 ### Purpose and Objective
 Since 2019, I have lost 40 pounds, and during that time, I have religiously worn a Garmin watch. This project aims to analyze the activities and trends that have contributed to my fitness achievements over the years, identifying what has worked best to reach this fitness level.
