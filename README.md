@@ -111,7 +111,7 @@ Focusing on the fitness focus of 2022 and the new challenging terrain for mounta
 - **Implications for Training**
 
   - As my focus has shifted from purely burning calories to improving overall fitness and strength, the decreased correlation might reflect a balanced and varied approach to my training, which can be beneficial in the long term. This makes sense when considering the lower intensity activities (untracked) I have increased over the years. 
-<img width="628" alt="Screenshot 2024-08-20 at 3 31 29 PM" src="https://github.com/user-attachments/assets/1871f406-bc02-443f-8799-acc3ecd35a3c">
+<img width="500" alt="Screenshot 2024-08-20 at 3 31 29 PM" src="https://github.com/user-attachments/assets/1871f406-bc02-443f-8799-acc3ecd35a3c">
 
 
 ## Overall Reflections
