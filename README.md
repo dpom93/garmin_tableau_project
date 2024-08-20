@@ -6,6 +6,7 @@ Since 2019, I have lost 40 pounds, and during that time, I have religiously worn
 This dashboard provides a comprehensive overview of my Garmin-tracked activities from 2019 to 2024. It is divided into two main sections:
 
 **Yearly Activity Summary**
+
 Total Time in Activities: This section visualizes the cumulative time spent on all activities for each year using a stacked bar chart. The bars are segmented by activity type, offering insights into how my focus on different activities has evolved over the years.
 Monthly Activity Breakdown
 
