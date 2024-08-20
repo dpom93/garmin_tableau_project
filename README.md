@@ -1,10 +1,10 @@
 # Dashboard Overview: My Garmin Activities Insights
 [Tableau Dashboard](https://public.tableau.com/app/profile/drew.pomeroy/viz/GarminDashboardProject/Dashboard1)
 
-### Purpose and Objective
+# Purpose and Objective
 Since 2019, I have lost 40 pounds, and during that time, I have religiously worn a Garmin watch. This project aims to analyze the activities and trends that have contributed to my fitness achievements over the years, identifying what has worked best to reach this fitness level.
 
-### Dashboard 1: Yearly and Monthly Activity Overview (2019 - 2024)
+## Dashboard 1: Yearly and Monthly Activity Overview (2019 - 2024)
 This dashboard provides a comprehensive overview of my Garmin-tracked activities from 2019 to 2024. It is divided into two main sections:
 
 **Yearly Activity Summary**
@@ -18,7 +18,7 @@ Monthly Distribution: This area breaks down the selected activities on a monthly
 
 Navigation Button: Positioned in the upper right-hand corner, this button directs users to the second dashboard, enabling seamless transitions between different levels of data granularity.
 
-### Dashboard 2: Weekly Activity Insights
+## Dashboard 2: Weekly Activity Insights
 This dashboard delves into a more granular analysis, focusing on weekly trends within the selected year:
 
 **Weekly Activity Overview**
