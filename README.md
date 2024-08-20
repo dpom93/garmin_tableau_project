@@ -78,6 +78,28 @@ Similar to the first dashboard, users can filter by year and activity type, enab
   - The summer months in Phoenix have posed challenges, leading to a decrease in weekly distance, calories burned, and total ascent due to the extreme heat and reduced riding opportunities.
 <img width="402" alt="Screenshot 2024-08-20 at 2 15 17 PM" src="https://github.com/user-attachments/assets/6442f41c-688f-4135-9307-9ebffd41b904">
 
+## 2024 compared to 2022
+
+Focusing on the fitness focus of 2022 and the new challenging terrain for mountain biking in 2024, there are a few comparison to make. 
+- **The scatterplot** below identifies average heart rate and average maximum heart rate show how cardiovascular performance has evolved. The change in size indicates the calories burned in mountain biking. Using 2022 as the reference point, 2023 shows less calories burned but heart rate responses indicate an improved cardiovascular level while 2024 clearly shows a significant increase in intensity of mountain bike rides in this new location. 
+<img width="614" alt="Screenshot 2024-08-20 at 2 35 12 PM" src="https://github.com/user-attachments/assets/3f895824-5211-4482-8027-d5c340a35ace">
+- **Ascent per Minute:** This value indicates how many feet (or meters) of elevation gain you achieve for every minute of activity. A higher value means you’re gaining elevation faster relative to the time spent. The graph below indicates that while 2022 saw the best Ascent per min and the highest elevation gain to this point, 2024 indicates a more challenging riding environment with a significant increase in elevation gain and the lowest Ascent per min. This speaks to the new riding terrain and the elevation at which I am riding now.
+<img width="947" alt="Screenshot 2024-08-20 at 2 57 42 PM" src="https://github.com/user-attachments/assets/f8bf8da8-4f9c-4651-9281-b2172be30f49">
+- **Correlation - Avg HR vs. Calories in Mountain Biking:**
+  - In 2020 (0.7200), there was a strong positive correlation between average heart rate and calories burned. This means that as heart rate increased, the calories burned also tended to increase significantly. This suggests that physical activities in 2020 were closely linked to intensity; higher heart rates were strongly associated with higher calorie expenditure.
+  - In 2021 (0.7158), The correlation in 2021 is almost as strong as in 2020. This consistency indicates that the relationship between heart rate and calorie burn remained stable. Mountain Biking in 2021 likely mirrored the intensity patterns of the previous year, with high-intensity workouts leading to significant calorie burns.
+  - In 2022 (0.4440), the correlation between average heart rate and calories burned decreased noticeably. While there's still a positive relationship, it's weaker than in the previous two years. This could indicate that my workouts or activities in 2022 varied more in terms of intensity or that other factors, such as duration or type of activity, played a more significant role in calorie expenditure than just heart rate.
+  - In 2023 (0.5881), the correlation increased again compared to 2022, but it still didn't reach the levels of 2020 and 2021. This suggests that while heart rate and calorie burn were more related than in 2022, the relationship wasn't as strong as in the earlier years. This could reflect a more balanced or varied workout regimen where other factors contributed to calorie burn.
+  - In 2024 (0.2172), the correlation between average heart rate and calories burned had weakened significantly. While this is only a partial picture of the year, a correlation of 0.2172 suggests that there’s only a slight positive relationship between these metrics. This could indicate that my activities have become more varied or that I am engaging in exercises where heart rate is not the primary driver of calorie expenditure (e.g., different types of training like my increased strength training (marked as cardio in activities) where calorie burn might not directly correlate with heart rate).
+- **Overall Correlation Interpretation**
+  - The trend shows a strong correlation between heart rate and calorie burn in the earlier years (2020 and 2021), which gradually weakens over time, especially in 2024. This weakening correlation might suggest that my fitness regimen has evolved to include a more diverse range of activities where heart rate alone is not the primary determinant of calorie burn.
+  - In the earlier years, my workout intensity (reflected in heart rate) was likely a key factor in calorie expenditure. As time progressed, other factors (like the type of exercise, duration, or efficiency in calorie burn due to improved fitness) might have started playing a more significant role.
+  - This shift could reflect a more nuanced understanding of fitness and calorie management, where I am incorporating various workout styles that contribute to overall health and calorie burn, but not necessarily through high heart rate alone.
+- **Implications for Training**
+  - As my focus has shifted from purely burning calories to improving overall fitness, strength, or endurance, the decreased correlation might reflect a balanced and varied approach to my training, which can be beneficial in the long term. This makes sense when considering the lower intensity activities (untracked) I have increased over the years. 
+<img width="637" alt="Screenshot 2024-08-20 at 3 27 03 PM" src="https://github.com/user-attachments/assets/52a9f8d3-a313-488d-8054-a305b405ec03">
+
+
 ## Overall Reflections
 
 - **2022**: Marked by dedication and rigorous tracking, 2022 saw the most significant increase in total activity time, with a clear focus on a wide variety of activities. The year’s highlight was the mountain biking trip, which had a lasting impact on my fitness journey.
@@ -88,7 +110,7 @@ Similar to the first dashboard, users can filter by year and activity type, enab
 
 ## Conclusion
 
-Over the years, my approach to fitness has evolved from tracking everything to focusing on what matters most. I’ve identified activities that no longer need to be meticulously tracked, as my goals and metrics have shifted. As a result, I’m now at my strongest and leanest, with a clear understanding of which activities and goals are most beneficial for my body.
+Over the years, my approach to fitness has evolved from tracking everything to focusing on what matters most. I’ve identified activities that no longer need to be meticulously tracked, as my goals and metrics have shifted. As a result, I’m now at my strongest and leanest, with a clear understanding of which activities and goals are most beneficial for my body. This shift in focus is highlighted in the correlation matrix showcasing that my focus has shifted from purely burning calories to improving overall fitness, strength, or endurance, the decreased correlation might reflect a balanced and varied approach to my training. 
 
 # Other Considerations
 
