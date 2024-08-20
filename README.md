@@ -95,9 +95,11 @@ Focusing on the fitness focus of 2022 and the new challenging terrain for mounta
 
   - In 2022 (0.4440), the correlation between average heart rate and calories burned decreased noticeably. While there's still a positive relationship, it's weaker than in the previous two years. This could indicate that my workouts or activities in 2022 varied more in terms of intensity or that other factors, such as duration or type of activity, played a more significant role in calorie expenditure than just heart rate.
 
- - In 2023 (0.5881), the correlation increased again compared to 2022, but it still didn't reach the levels of 2020 and 2021. This suggests that while heart rate and calorie burn were more related than in 2022, the relationship wasn't as strong as in the earlier years. This could reflect a more balanced or varied workout regimen where other factors contributed to calorie burn.
+  - In 2023 (0.5881), the correlation increased again compared to 2022, but it still didn't reach the levels of 2020 and 2021. This suggests that while heart rate and calorie burn were more related than in 2022, the relationship wasn't as strong as in the earlier years. This could reflect a more balanced or varied workout regimen where other factors contributed to calorie burn.
 
- - In 2024 (0.2172), the correlation between average heart rate and calories burned had weakened significantly. While this is only a partial picture of the year, a correlation of 0.2172 suggests that there’s only a slight positive relationship between these metrics. This could indicate that my activities have become more varied or that I am engaging in exercises where heart rate is not the primary driver of calorie expenditure (e.g., different types of training like my increased strength training (marked as cardio in activities) where calorie burn might not directly correlate with heart rate).
+  - In 2024 (0.2172), the correlation between average heart rate and calories burned had weakened significantly. While this is only a partial picture of the year, a correlation of 0.2172 suggests that there’s only a slight positive relationship between these metrics. This could indicate that my activities have become more varied or that I am engaging in exercises where heart rate is not the primary driver of calorie expenditure (e.g., different types of training like my increased strength training (marked as cardio in activities) where calorie burn might not directly correlate with heart rate).
+
+
 - **Overall Correlation Interpretation**
 
   - The trend shows a strong correlation between heart rate and calorie burn in the earlier years (2020 and 2021), which gradually weakens over time, especially in 2024. This weakening correlation might suggest that my fitness regimen has evolved to include a more diverse range of activities where heart rate alone is not the primary determinant of calorie burn.
@@ -109,7 +111,7 @@ Focusing on the fitness focus of 2022 and the new challenging terrain for mounta
 - **Implications for Training**
 
   - As my focus has shifted from purely burning calories to improving overall fitness, strength, or endurance, the decreased correlation might reflect a balanced and varied approach to my training, which can be beneficial in the long term. This makes sense when considering the lower intensity activities (untracked) I have increased over the years. 
-<img width="637" alt="Screenshot 2024-08-20 at 3 27 03 PM" src="https://github.com/user-attachments/assets/52a9f8d3-a313-488d-8054-a305b405ec03">
+<img width="628" alt="Screenshot 2024-08-20 at 3 31 29 PM" src="https://github.com/user-attachments/assets/1871f406-bc02-443f-8799-acc3ecd35a3c">
 
 
 ## Overall Reflections
