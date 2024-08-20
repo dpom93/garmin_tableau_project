@@ -85,7 +85,7 @@ Focusing on the fitness focus of 2022 and the new challenging terrain for mounta
 <img width="614" alt="Screenshot 2024-08-20 at 2 35 12 PM" src="https://github.com/user-attachments/assets/3f895824-5211-4482-8027-d5c340a35ace">
 
 - **Ascent per Minute:** This value indicates how many feet (or meters) of elevation gain you achieve for every minute of activity. A higher value means you’re gaining elevation faster relative to the time spent. The graph below indicates that while 2022 saw the best Ascent per min and the highest elevation gain to this point, 2024 indicates a more challenging riding environment with a significant increase in elevation gain and the lowest Ascent per min. This speaks to the new riding terrain and the elevation at which I am riding now.
-<img width="947" alt="Screenshot 2024-08-20 at 2 57 42 PM" src="https://github.com/user-attachments/assets/f8bf8da8-4f9c-4651-9281-b2172be30f49">
+<img width="402" alt="Screenshot 2024-08-20 at 2 57 42 PM" src="https://github.com/user-attachments/assets/f8bf8da8-4f9c-4651-9281-b2172be30f49">
 
 - **Correlation - Avg HR vs. Calories in Mountain Biking:**
   
