@@ -13,6 +13,7 @@ Monthly Activity Breakdown
 Monthly Distribution: This area breaks down the selected activities on a monthly basis within each year. Users can pivot between different years and activity types using the filter section to gain detailed monthly insights, ideal for understanding seasonal trends and variations in activity levels.
 
 **Navigation and Interactivity**
+
 Navigation Button: Positioned in the upper right-hand corner, this button directs users to the second dashboard, enabling seamless transitions between different levels of data granularity.
 
 ### Dashboard 2: Weekly Activity Insights
@@ -23,6 +24,7 @@ This dashboard delves into a more granular analysis, focusing on weekly trends w
 This section offers a breakdown of activities by week, providing insights into consistency and intensity on a week-to-week basis. The stacked bar charts illustrate how different activity types contribute to the total time spent each week.
 
 **Filtering Options**
+
 Similar to the first dashboard, users can filter by year and activity type, enabling a focused view of specific activities over time.
 
 ### Design Choices
