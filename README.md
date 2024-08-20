@@ -110,7 +110,7 @@ Focusing on the fitness focus of 2022 and the new challenging terrain for mounta
 
 - **Implications for Training**
 
-  - As my focus has shifted from purely burning calories to improving overall fitness, strength, or endurance, the decreased correlation might reflect a balanced and varied approach to my training, which can be beneficial in the long term. This makes sense when considering the lower intensity activities (untracked) I have increased over the years. 
+  - As my focus has shifted from purely burning calories to improving overall fitness and strength, the decreased correlation might reflect a balanced and varied approach to my training, which can be beneficial in the long term. This makes sense when considering the lower intensity activities (untracked) I have increased over the years. 
 <img width="628" alt="Screenshot 2024-08-20 at 3 31 29 PM" src="https://github.com/user-attachments/assets/1871f406-bc02-443f-8799-acc3ecd35a3c">
 
 
@@ -124,7 +124,7 @@ Focusing on the fitness focus of 2022 and the new challenging terrain for mounta
 
 ## Conclusion
 
-Over the years, my approach to fitness has evolved from tracking everything to focusing on what matters most. I’ve identified activities that no longer need to be meticulously tracked, as my goals and metrics have shifted. As a result, I’m now at my strongest and leanest, with a clear understanding of which activities and goals are most beneficial for my body. This shift in focus is highlighted in the correlation matrix showcasing that my focus has shifted from purely burning calories to improving overall fitness, strength, or endurance, the decreased correlation might reflect a balanced and varied approach to my training. 
+Over the years, my approach to fitness has evolved from tracking everything to focusing on what matters most. I’ve identified activities that no longer need to be meticulously tracked, as my goals and metrics have shifted. As a result, I’m now at my strongest and leanest, with a clear understanding of which activities and goals are most beneficial for my body. This shift in focus is highlighted in the correlation matrix showcasing that my focus has shifted from purely burning calories to improving overall fitness and strength the decreased correlation might reflect a balanced and varied approach to my training. 
 
 # Other Considerations
 
@@ -132,10 +132,10 @@ Over the years, my approach to fitness has evolved from tracking everything to f
 My goal was to create a dashboard that is both simple and user-friendly. The color scheme reflects this simplicity, with minimal colors used to keep the focus clear while boldly highlighting areas for user interactivity, such as navigation and filters. The first dashboard provides an overview of how my activities have evolved throughout my journey, while the second dashboard allows users to drill down into weekly trends for deeper insights.
 
 ### Challenges and Solutions
-Several fields required transformation to be effectively used in the visualizations. For example, "Total Ascent" and "Total Descent" needed to be converted from strings to numbers. Additionally, "Total Time" required a custom calculation to convert it from a date/time format to a duration format for accurate analysis.
+Several fields required transformation to be effectively used in the visualizations. For example, "Total Ascent" and "Total Descent" needed to be converted from strings to numbers. Additionally, "Total Time" required a custom calculation to convert it from a date/time format to a duration format for accurate analysis. Ascent per min was calculated to determine whether I am climbing during mountain biking more efficiently (e.g., gaining more elevation in less time) or if there are areas where performance has declined. A correlation was calculated using the Pearson correlation coefficient for insights into Avg Heart Rate vs. Calories into how my fitness regimen has evolved over time. 
 
 ### Potential Use Cases
-This dashboard offers valuable insights into general fitness trends, performance over the years, and highlights which activities have been most consistent throughout my weight loss journey. These insights are crucial for maintaining long-term consistency in a fitness routine.
+This dashboard offers valuable insights into general fitness trends, performance over the years, and highlights which activities have been most consistent or meaningful for my fitness throughout my weight loss journey. These insights are crucial for maintaining long-term consistency in a fitness routine.
 
 ### Future Enhancements
 Currently, this data is limited to activities recorded with my Garmin watch. Integrating additional data such as weekly weight change, sleep patterns, steps not recorded during activities, nutrition insights, and heart rate variability would provide a more comprehensive view of my overall health and fitness trends.
